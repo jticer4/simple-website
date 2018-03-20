@@ -21,3 +21,6 @@ table, td, th {
 	margin: auto;
 	text-align: center;
 }
+body {
+	color:red;
+}
