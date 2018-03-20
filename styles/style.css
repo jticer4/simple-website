@@ -13,3 +13,6 @@ table, td, th {
 .html-list {
 	list-style-type: square;
 }
+.css-list {
+	color: blue;
+}
