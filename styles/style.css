@@ -27,3 +27,6 @@ table, td, th {
 	text-align: left;
 	display: inline-block;
 }
+input, label {
+	display: block;
+}
